@@ -1,0 +1,35 @@
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">Just_Tip</string>
+<string name="title_activity_maps">Map</string>
+<string name="name">Nama</string>
+    <string name="nama">Nama :</string>
+    <string name="namabarang">Nama Barang :</string>
+    <string name="banyakbarang">Banyak Barang :</string>
+    <string name="tanggalnitip">Tanggal Penitipan :</string>
+    <string name="tanggalambil">Tanggal Pengambilan :</string>
+    <string name="tanggalkembali">Tanggal Pengembalian :</string>
+    <string name="createOrderSummary">Tanggal Pengembalian :</string>
+<string name="toppings">Toppings</string>
+<string name="whipped_cream">Whipped Cream</string>
+<string name="chocolate">Chocolate</string>
+<string name="quantity">Quantity</string>
+<string name="initial_quantity">0</string>
+<string name="order">Order</string>
+<string name="plus">+</string>
+<string name="minus">-</string>
+<string name="order_summary_quantity">Quantity : <xliff:g id="quantity" example="">%d</xliff:g></string>
+<string name="order_summary_whipped_cream">Whipped Cream : <xliff:g id="addWhippedCream" example="">%s</xliff:g></string>
+<string name="order_summary_chocolate">Chocolate : <xliff:g id="addChocolate" example="">%s</xliff:g></string>
+<string name="order_summary_name">Name : <xliff:g id="name" example="Amy">%s</xliff:g></string>
+<string name="thankyou">Thank You!</string>
+<string name="order_summary_price">Quantity : <xliff:g id="priceMessage" example="2">%s</xliff:g></string>
+<string name="order_summary_email_subject">Just Java Order by<xliff:g id="name" example="Amy">%d</xliff:g></string>
+
+
+</resources>
